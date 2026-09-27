@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\UsersApp.exe
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\UsersApp.dll
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\UsersApp.deps.json
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\UsersApp.runtimeconfig.json
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\UsersApp.pdb
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\зАДАНИЕ 1\Задание 2\Запуск\MySqlConnector.dll
